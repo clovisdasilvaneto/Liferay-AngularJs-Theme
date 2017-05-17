@@ -1,0 +1,28 @@
+{
+  "name": "angular-js-theme",
+  "version": "1.0.0",
+  "main": "package.json",
+  "keywords": [
+    "liferay-theme"
+  ],
+  "liferayTheme": {
+    "baseTheme": "styled",
+    "screenshot": "",
+    "rubySass": false,
+    "templateLanguage": "ftl",
+    "version": "7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "liferay-theme-deps-7.0": "*",
+    "liferay-theme-tasks": "*"
+  },
+  "publishConfig": {
+    "tag": "7_0_x"
+  },
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-router": "^0.4.2",
+    "jquery": "^3.2.1"
+  }
+}

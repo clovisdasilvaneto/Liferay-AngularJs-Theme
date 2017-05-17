@@ -1,0 +1,10 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/Users/clovisneto/Liferay/YOUR_PROJECT_FOLDER/tomcat-8.0.32",
+    "deployPath": "/Users/clovisneto/Liferay/YOUR_PROJECT_FOLDER/deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "/Users/clovisneto/Liferay/YOUR_PROJECT_FOLDER/tomcat-8.0.32/webapps/angular-js-theme",
+    "deployed": true,
+    "pluginName": "angular-js-theme"
+  }
+}
